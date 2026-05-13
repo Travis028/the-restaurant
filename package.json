@@ -1,0 +1,9 @@
+{
+  "name": "the-restaurant",
+  "version": "1.0.0",
+  "description": "Restaurant SaaS Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
